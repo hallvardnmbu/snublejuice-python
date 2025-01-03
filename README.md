@@ -1,7 +1,7 @@
-# snublejuice
+# snublejuice-python
 
 > [!WARNING]  
-> Utdatert. Flyttet til [snubleJS](https://github.com/hallvardnmbu/snubleJS).
+> Utdatert. Flyttet til [snublejuice](https://github.com/hallvardnmbu/snublejuice).
 
 Original kildekode til [snublejuice](https://snublejuice.no) – en applikasjon for å utforske og sammenlikne [vinmonopolets](https://www.vinmonopolet.no) utvalg og prisendringer.
 
